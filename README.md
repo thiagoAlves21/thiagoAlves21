@@ -22,6 +22,6 @@ Tenho interesse em criação de sites, automações e soluções criativas para 
     srcset="https://github-readme-stats.vercel.app/api?username=thiagoAlves21&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagoAlves21&show_icons=true" />
+ 
 </picture>
 
