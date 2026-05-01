@@ -10,7 +10,7 @@ Tenho interesse em criação de sites, automações e soluções criativas para 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoAlves21)](https://github.com/anuraghazra/github-readme-stats)        
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 <picture>
